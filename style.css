@@ -997,10 +997,12 @@ nav a:hover::after {
 /* Depoimentos */
 .testimonials {
   margin-top: 80px;
+  overflow: hidden;
 }
 .testimonials-track {
   display: flex;
   gap: 25px;
+  width: 100%;
 
   position: relative;
 }
