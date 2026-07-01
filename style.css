@@ -1870,6 +1870,12 @@ nav a:hover::after {
     transform: none;
   }
 
+  .blur1,
+  .blur2,
+  .glow {
+    filter: blur(80px);
+  }
+
   nav ul {
     gap: 20px;
   }
