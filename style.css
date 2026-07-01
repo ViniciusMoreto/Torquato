@@ -1865,6 +1865,11 @@ nav a:hover::after {
     max-width: 900px;
   }
 
+  .reveal {
+    opacity: 1;
+    transform: none;
+  }
+
   nav ul {
     gap: 20px;
   }
